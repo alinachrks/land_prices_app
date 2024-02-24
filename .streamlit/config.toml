@@ -1,0 +1,15 @@
+[theme] # You have to add this line
+
+primaryColor = '#FF8C02' # Bright Orange
+
+secondaryBackgroundColor = '#D1D8D0' # Lighter Blue
+
+backgroundColor = '#f1f1f1' # Dark Blue
+
+textColor = '#44484d'
+
+# Additional colors
+infoColor = "#17a2b8"  # Information color, blue
+successColor = "#28a745"  # Success color, green
+warningColor = "#ffc107"  # Warning color, yellow
+dangerColor = "#dc3545"  # Danger color, red

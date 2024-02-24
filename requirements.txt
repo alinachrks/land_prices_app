@@ -1,0 +1,11 @@
+firebase_admin
+streamlit
+streamlit_option_menu
+folium
+geopandas
+geopy
+numpy
+pandas
+scikit_learn
+streamlit_folium
+plotly
